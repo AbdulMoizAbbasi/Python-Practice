@@ -1,1 +1,2 @@
 import Variable
+print("Hello")
