@@ -1,2 +1,1 @@
 import Variable
-print ("MOIZ")
