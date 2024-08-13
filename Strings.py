@@ -1,5 +1,6 @@
 #PLAYING WITH THE CASE OF WORDS
-name = "ABdul moiz ABBASI       "
+# name = 'Abdul 'moiz' Abbasi' INCORRECT.
+name = "ABdul 'moiz' ABBASI       " #correct way to use quotes
 name = name.rstrip() #removes whitespace from right
 print(f"Right Strip {name}")
 name = "      ABdul moiz ABBASI"
