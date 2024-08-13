@@ -21,3 +21,7 @@ lower = name.islower() #check upper
 
 print(f"{upper}\n{lower}") #\n = New Line
 print(f"{name}\t\t{upper}")  #\t = Tab Space
+
+text = "moizabbasi"
+print(text.removeprefix("moiz")) #removes the first letters if it exactly matches
+print(text.removesuffix("abbasi")) #removes the last letters if it exactly matches
