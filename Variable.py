@@ -9,4 +9,3 @@ _var1 = "Moiz"
 var2 = "Moiz"
 # 3var = "Moiz" Incorrect
 # var 4 = "Moiz" Incorrect
-
