@@ -5,3 +5,5 @@ import bookpractice2_3personalmessage
 import bookpractice2_4namecases
 import bookpractice2_5famousquote
 import bookpractice2_6famousquote2
+import bookpractice2_7strippingnames
+import bookpractice2_8fileextension
