@@ -3,3 +3,5 @@ import bookpractice2_1_2_2varupdate
 import Strings
 import bookpractice2_3personalmessage
 import bookpractice2_4namecases
+import bookpractice2_5famousquote
+import bookpractice2_6famousquote2
