@@ -1,3 +1,4 @@
 import Variable
-import bookpractice2_1_2_2
+import bookpractice2_1_2_2varupdate
 import Strings
+import bookpractice2_3personalmessage
