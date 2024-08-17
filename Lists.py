@@ -22,12 +22,13 @@ print(f"{bicycles} Delete function")
 del bicycles[2]
 print(bicycles)
 
-x = bicycles.pop(2)
+x = bicycles.pop(2) #returns the value just popped
 print(bicycles)
 print(x)
 
-bicycles.remove("Trek")
+y = bicycles.remove("Trek") #doesn't return anything
 print(bicycles)
+print(f"y = {y}")
 
 bicycles.reverse()
 print(bicycles)
