@@ -17,3 +17,7 @@ print(len(guests))
 while len(guests) == 2:
     x = guests.pop()
     print(f"Hey! {x} I'm sorry I can’t invite you to dinner.")
+
+del guests[0:]
+print(guests)
+del guests
