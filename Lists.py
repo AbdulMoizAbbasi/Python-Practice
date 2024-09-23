@@ -40,6 +40,9 @@ print(bicycles)
 
 car= ["Audi", "Toyota", "Honda"] #Give preference to the capital Letter, and only compares first letter
 car.sort()  #.sort() returns none
-print(car)
-
-
+print(f"Sorted Car {car}")
+car.sort(reverse = True)
+print(f"Reverse Car {car}")
+num = [1, 2.5, -4, 5, 1, 7, 2, 9, 15, 11, 4]
+num.sort()
+print(num)
