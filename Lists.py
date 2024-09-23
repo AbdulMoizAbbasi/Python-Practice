@@ -46,3 +46,8 @@ print(f"Reverse Car {car}")
 num = [1, 2.5, -4, 5, 1, 7, 2, 9, 15, 11, 4]
 num.sort()
 print(num)
+
+car= ["Audi", "Toyota", "Honda"]
+print(f"Sorted {sorted(car)}") #doesn't changes the original list but returns a sorted list
+print(f"Original {car}")
+print(f"Reverse Sorted {sorted(car, reverse = True)}")
