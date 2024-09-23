@@ -36,4 +36,10 @@ print(bicycles)
 bicycles.clear()
 print(bicycles)
 
+#Organizing a List
+
+car= ["Audi", "Toyota", "Honda"] #Give preference to the capital Letter, and only compares first letter
+car.sort()  #.sort() returns none
+print(car)
+
 
