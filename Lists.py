@@ -20,11 +20,11 @@ del bicycles[1]
 print(f"{bicycles} Delete function")
 
 del bicycles[2]
-print(bicycles)
+print(f"del {bicycles}")
 
 x = bicycles.pop(2) #returns the value just popped
 print(bicycles)
-print(x)
+print(f"x = {x}")
 
 y = bicycles.remove("Trek") #doesn't return anything
 print(bicycles)
@@ -35,3 +35,5 @@ print(bicycles)
 
 bicycles.clear()
 print(bicycles)
+
+
